@@ -1,0 +1,11 @@
+* debug list
+ - main functions
+ - options page
+ - popup page
+ - Desktop/Laptop
+ - Japanese/English
+
+* current issues
+ - Can't reflesh the builtin translation bar
+ - Can't get correct parameters in GS AJAX page
+ - How-to in options page

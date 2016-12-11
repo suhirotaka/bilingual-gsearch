@@ -1,0 +1,11 @@
+{
+  "extDescription": {
+    "message": "Allow users to easily switch language in Google search page with 1-click on the extension icon."
+  },
+  "LangChanged": {
+    "message": "Language changed."
+  },
+  "notInGS": {
+    "message": "You're not in Google Search page."
+  }
+}
